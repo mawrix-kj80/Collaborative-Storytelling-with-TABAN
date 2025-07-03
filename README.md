@@ -21,3 +21,8 @@ Photos capturing the storytelling environment, including the robot setup, intera
 
 ### 📂 `Prompts`
 Includes a PDF file listing the prompts provided to both the **Large Language Model (LLM)** and **Vision-Language Model (VLM)** to generate relevant story content from images and user input.
+
+### 🎥 `Watch the Robot in Action`
+A short video showing the collaborative storytelling interaction between a child and TABAN.
+https://youtu.be/1VvhRrw_ynw
+
